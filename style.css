@@ -1,0 +1,53 @@
+@import url('https://fonts.googleapis.com/css2?family=Style+Script&display=swap');
+
+body {
+    background-image: url('https://courses.ics.hawaii.edu/ics314f26/morea/ui-basics/page.gif');
+    background-repeat: no-repeat;
+    color: black;
+    margin: 40px 320px 200px 250px;
+    width: 475px;
+    line-height: 175%;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+img {
+    margin: 0px auto 10px auto;
+    display: block;
+}
+
+li {
+    display: block;
+}
+
+ul {
+    list-style-type: none;
+    padding: 0;
+    line-height: 350%;
+    font-size: 30px;
+    font-weight: bold;
+}
+
+h1.fancy {
+    font-family: "Edwardian Script ITC", "Style Script", cursive; 
+    font-size: 50pt; 
+    text-align: center;
+    line-height: 135%;
+    font-weight: normal;
+}
+
+h2.chapter {
+    font-size: 30pt;
+    text-align: center;
+    margin-top: 10px;
+    margin-bottom: 20px;
+}
+
+a.left {
+    float: left;
+    font-weight: bold;
+}
+
+a.right {
+    float: right;
+    font-weight: bold;
+}
