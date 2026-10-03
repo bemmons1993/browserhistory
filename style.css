@@ -1,0 +1,17 @@
+body {
+  padding-top: 65px;
+}
+
+
+a.nav-link {
+  color: white !important;
+}
+
+h1, h2 {
+  color: #191970;
+}
+
+img.float-start {
+  margin-right: 12px;
+  margin-bottom: 6px;
+}
